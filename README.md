@@ -7,4 +7,4 @@ There are three videos with the code being demonstrated:
 - Java Casting and random https://youtu.be/oyXUAIcl49M <img src ="https://img.youtube.com/vi/oyXUAIcl49M/0.jpg" alt="Screenshot of Java math basics video">
 - The Java Math. methods https://youtu.be/6GYkQhXd_3g <img src ="https://img.youtube.com/vi/6GYkQhXd_3g/0.jpg" alt="Screenshot of Java math basics video">
 
-A lecture on math in Java is also available.
+A lecture on math in Java is also available. Lecture notes in the StudyResources repo and video
